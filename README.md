@@ -1,7 +1,7 @@
-# Pokémon Moon
-WIP decomp of Pokémon Moon made by someone who has no idea what he's doing.. Most likely will never be finished.
+# Pokémon Ultra Moon
+WIP decomp of Pokémon Ultra Moon made by someone who has no idea what he's doing.. Most likely will never be finished.
 
-I am not trying to perfectly decompile Pokémon Moon, but rather to decompile a MINIMAL VERSION. That said, I have no idea what I'm doing. So, yeah.
+I am not trying to perfectly decompile Pokémon Ultra Moon, but rather to decompile a MINIMAL VERSION. That said, I have no idea what I'm doing. So, yeah.
 
 # Building
 There's nothing here yet. Good luck trying to build an empty repository lol.
